@@ -18,7 +18,7 @@ export class AppComponent {
     content: 'The purveyor of cuddles and kisses.'
   },
   { title: 'Jerry Lee',
-    imageUrl: 'assets/jerrylee.JPG',
+    imageUrl: 'assets/jerrylee.jpg',
     username: 'jerry lee',
     content: 'The provider of pure comic relief.'
   },
