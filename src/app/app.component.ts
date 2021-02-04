@@ -10,7 +10,7 @@ export class AppComponent {
    { title: 'Cleo',
   imageUrl: 'assets/cleo.JPG',
   username: 'cleo',
-  content: 'The fearless leader of this gang of sheppies.'
+  content: 'The fearless leader of these goons.'
   },
   { title: 'Ziva',
     imageUrl: 'assets/ziva.JPG',
